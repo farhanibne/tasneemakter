@@ -114,7 +114,7 @@ const Home = () => (
           I ♥
         </Heading>
         <Paragraph>
-        😍 Art, 😍 Nature, 😍 Culture, 😍 Travelling , 😍 eating various foods
+        😍 Art, 😍 Nature, 😍 Culture, 😍 Travelling , 😍 Skin care , Fitness
         
         </Paragraph>
       </Section>
