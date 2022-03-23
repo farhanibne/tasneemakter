@@ -26,6 +26,7 @@ import thumbInkdrop from '../public/images/works/inkdrop_eyecatch.png'
 const Home = () => (
   
   
+  
   <Layout>
     <Container>
       <center>
